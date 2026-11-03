@@ -1,6 +1,6 @@
 {
   "name": "ts-node-dev",
-  "version": "1.1.8",
+  "version": "1.1.8-lineaje-01",
   "description": "Compiles your TS app and restarts when files are modified.",
   "keywords": [
     "restart",
@@ -11,9 +11,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/whitecolor/ts-node-dev.git"
+    "url": "https://github.com/lineaje-labs-gos/whitecolor-ts-node-dev"
   },
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bin": {
     "ts-node-dev": "lib/bin.js",
     "tsnd": "lib/bin.js"
