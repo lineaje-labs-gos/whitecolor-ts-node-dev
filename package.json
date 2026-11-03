@@ -102,5 +102,13 @@
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
+  },
+  "overrides": {
+    "braces": ">=3.0.3",
+    "picomatch": ">=2.3.2"
+  },
+  "resolutions": {
+    "braces": ">=3.0.3",
+    "picomatch": ">=2.3.2"
   }
 }
